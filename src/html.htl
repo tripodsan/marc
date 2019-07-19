@@ -25,7 +25,10 @@
 </head>
 <body>
 
-${content.document.body.innerHTML}
+${content.document.body}
+
+
+hello
 
 <div class="container-fluid">
     <em>generated at ${content.time}</em>
